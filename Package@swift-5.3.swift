@@ -27,7 +27,8 @@ pmk.exclude = [
     "hang.m",
     "race.m",
     "Deprecations.swift",
-    "Info.plist"
+    "Info.plist",
+    "Extensions/"
 ]
 pkg.swiftLanguageVersions = [.v4, .v4_2, .v5]
 pkg.targets = [
